@@ -1,11 +1,11 @@
 ### Matias Claure
 
-AI student at Northwestern University, pursuing a Master's degree with an expected graduation in 2029.
+AI student at Northwestern University, will graduate in 2029 with a Master's degree. 
 Interested in building practical infrastructure for AI systems — currently focused on how companies can safely give agents access to their APIs.
 
 ---
 
-**Agent Gateway** — [github.com/Matias-Claure/agent-gateway](https://github.com/Matias-Claure/agent-gateway)
+**Agent Gateway** 
 
 A platform for companies that need to give AI agents access to their APIs without giving up control. It handles discovery, approval workflows, spec generation (OpenAPI 3.0 + MCP), and runtime enforcement through a proxy layer. Includes drift detection — when an API changes, agent access is blocked until the change is reviewed and re-approved.
 
