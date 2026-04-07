@@ -1,13 +1,7 @@
 ### Matias Claure
 
-```yaml
-focus:    AI infrastructure · governed agent systems · API platforms
-location: Building in public
-status:   Actively developing Agent Gateway
-```
-
-I build the layer between AI agents and the systems they're allowed to touch.
-Most of my work lives at the intersection of runtime enforcement, API governance, and the emerging MCP ecosystem.
+AI student at Northwestern University, pursuing a Master's degree with an expected graduation in 2029.
+Interested in building practical infrastructure for AI systems — currently focused on how companies can safely give agents access to their APIs.
 
 ---
 
@@ -15,9 +9,11 @@ Most of my work lives at the intersection of runtime enforcement, API governance
 
 A platform for companies that need to give AI agents access to their APIs without giving up control. It handles discovery, approval workflows, spec generation (OpenAPI 3.0 + MCP), and runtime enforcement through a proxy layer. Includes drift detection — when an API changes, agent access is blocked until the change is reviewed and re-approved.
 
-```
-Node.js · Express · React · OpenAPI 3.0 · MCP
-```
+---
+
+**Languages**
+
+C &nbsp;·&nbsp; C++ &nbsp;·&nbsp; Java &nbsp;·&nbsp; Python &nbsp;·&nbsp; MATLAB
 
 ---
 
@@ -27,4 +23,4 @@ Node.js · Express · React · OpenAPI 3.0 · MCP
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/matias-claure) &nbsp;·&nbsp; [Email](mailto:matias@example.com)
+[LinkedIn](https://www.linkedin.com/in/matiasclaure) &nbsp;·&nbsp; [Email](mailto:matiasclaure2029@u.northwestern.edu)
