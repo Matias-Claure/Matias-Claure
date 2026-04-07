@@ -17,10 +17,4 @@ C &nbsp;·&nbsp; C++ &nbsp;·&nbsp; Java &nbsp;·&nbsp; Python &nbsp;·&nbsp; MA
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Matias-Claure&show_icons=true&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&theme=default" />
-</p>
-
----
-
 [LinkedIn](https://www.linkedin.com/in/matiasclaure) &nbsp;·&nbsp; [Email](mailto:matiasclaure2029@u.northwestern.edu)
